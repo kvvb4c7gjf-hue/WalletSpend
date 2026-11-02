@@ -1,0 +1,258 @@
+# WALLETSPEND — PRIVACY POLICY
+
+**Effective Date:** November 2, 2026  
+**Last Updated:** November 2, 2026
+
+## 1. Introduction
+
+Welcome to WalletSpend ("the App", "we", "our", or "us").
+
+WalletSpend is a personal expense-tracking application designed to help users record, organize, and monitor their daily expenses while maintaining control over their personal financial information.
+
+Your privacy is important to us. WalletSpend follows a privacy-first approach, designed to minimize the collection and processing of personal information.
+
+This Privacy Policy explains what information is processed when you use WalletSpend, how it is handled, where it is stored, and what rights you have regarding your information.
+
+WalletSpend does not require users to create an account. All expense information is stored locally on the user's device. We do not operate our own servers or databases to collect or store users' personal expense records.
+
+By using WalletSpend, you acknowledge that you have read this Privacy Policy.
+
+## 2. Information We Process
+
+WalletSpend is designed to minimize the collection of personal information.
+
+We do not require registration, account creation, or submission of personal identification information to use the App.
+
+### 2.1 Manually Entered Expense Information
+
+When using WalletSpend, you may manually enter information such as:
+
+- Expense amounts.
+- Transaction dates and times.
+- Merchant names.
+- Expense categories.
+- Transaction descriptions or notes.
+- Currency information.
+- Other information related to your personal spending.
+
+This information is processed by the App to provide expense-tracking functionality.
+
+All manually entered expense information is stored locally on your device.
+
+We do not upload or store your personal expense records on our own servers.
+
+### 2.2 Automatic Expense Tracking Through Apple Shortcuts
+
+WalletSpend supports automatic expense tracking through Apple's Shortcuts application.
+
+Users may configure Apple Shortcuts automations to transfer supported transaction information, including information related to Apple Pay transactions, to WalletSpend.
+
+When a configured Shortcut is executed, the information passed to WalletSpend may include:
+
+- Transaction amount.
+- Merchant name.
+- Transaction date and time.
+- Currency.
+- Other transaction-related information made available through the Shortcut.
+
+WalletSpend processes the information received from the Shortcut to create or organize expense records within the App.
+
+WalletSpend does not independently connect to your bank account or payment card to retrieve transaction information.
+
+Automatic expense tracking depends on the Shortcuts automations configured by the user and the information made available through Apple's technologies.
+
+Information received through Apple Shortcuts is stored locally on your device.
+
+WalletSpend does not operate its own server to collect, transmit, or store this transaction information.
+
+Apple Shortcuts and Apple Pay are technologies provided by Apple Inc. Their availability, functionality, and data processing are governed by Apple's own terms and privacy policies.
+
+WalletSpend is an independent application and is not affiliated with, sponsored by, or endorsed by Apple Inc.
+
+### 2.3 Information Provided Through Direct Communication
+
+If you voluntarily contact us by email, we may process your email address and the information contained in your message.
+
+This information is used solely to respond to your inquiry, provide support, or address your request.
+
+## 3. Data Storage and Processing
+
+WalletSpend follows a local-first data storage approach.
+
+All personal expense information is stored locally on the device where the App is installed.
+
+We do not operate our own servers or databases for collecting, transmitting, or storing users' expense records.
+
+In particular:
+
+- We do not upload your expense history to our servers.
+- We cannot remotely access your recorded expenses.
+- We do not maintain centralized copies of your personal financial records.
+- We do not sell, rent, or share your expense information.
+- We do not use your expense information for advertising or profiling.
+
+Your expense information remains under your control through the App and your device.
+
+Please note that device-level features, operating system functionality, or services independently enabled by you may affect how information is stored or backed up.
+
+## 4. Analytics, Tracking and Advertising
+
+WalletSpend does not use third-party analytics services, advertising networks, or tracking technologies within its core functionality.
+
+We do not intentionally collect usage analytics or behavioral tracking information through the App.
+
+We do not:
+
+- Track users across other applications or websites.
+- Use advertising identifiers to profile users.
+- Sell personal information to advertisers.
+- Display personalized advertisements based on spending information.
+- Share expense records with marketing companies or data brokers.
+
+Your personal spending information is not used for advertising or marketing purposes.
+
+## 5. How Information Is Used
+
+Information stored within WalletSpend is used exclusively to provide the App's functionality.
+
+This includes:
+
+- Recording and organizing daily expenses.
+- Categorizing transactions.
+- Displaying expense history.
+- Calculating spending totals.
+- Generating spending summaries and statistics.
+- Supporting automatic expense tracking through Apple Shortcuts.
+- Allowing users to review their personal spending activity.
+
+WalletSpend does not provide financial advice, investment recommendations, banking services, or personalized financial guidance.
+
+All calculations, summaries, and statistics are intended solely for informational and organizational purposes.
+
+## 6. Data Sharing and Third-Party Services
+
+We do not sell, rent, trade, or share users' personal expense information with third parties.
+
+WalletSpend does not integrate third-party analytics or advertising services into its core functionality.
+
+The App may interact with Apple's Shortcuts application to support automatic expense tracking. Information transferred through a Shortcut is processed according to the automation configured by the user.
+
+Apple may independently process information in connection with Apple Pay, Apple Shortcuts, iOS, and other Apple services.
+
+Such processing is governed by Apple's own terms and privacy policies.
+
+For more information, please review:
+
+**Apple Privacy Policy:**  
+https://www.apple.com/legal/privacy/
+
+**Apple Shortcuts User Guide:**  
+https://support.apple.com/guide/shortcuts/welcome/ios
+
+## 7. Data Security
+
+WalletSpend is designed to minimize the exposure of personal financial information by storing expense records locally on the user's device.
+
+The security of locally stored information also depends on the security features and settings of your device.
+
+We recommend that users:
+
+- Keep their operating system updated.
+- Use a secure device passcode.
+- Enable available device security features.
+- Protect access to their devices.
+
+Although we take a privacy-conscious approach to the design of WalletSpend, no electronic storage method or software application can guarantee absolute security.
+
+## 8. Data Retention and Deletion
+
+Your expense information remains stored locally on your device until you delete it or remove the relevant App data.
+
+You can manage or delete your expense records directly within WalletSpend, where supported.
+
+We do not retain copies of your expense records on our own servers and cannot remotely retrieve or delete locally stored expense information.
+
+Uninstalling the App may remove locally stored information, depending on your device and operating system settings.
+
+If you contact us by email, we may retain your correspondence for as long as reasonably necessary to respond to your inquiry or comply with applicable legal obligations.
+
+## 9. Children's Privacy
+
+WalletSpend is not specifically designed for children.
+
+We do not knowingly collect personal information from children through the core functionality of the App.
+
+If you believe that a child has provided personal information to us through direct communication, please contact us so that we can review the matter.
+
+## 10. Your Privacy Rights
+
+Depending on your country or region of residence, you may have certain rights regarding your personal information.
+
+These rights may include:
+
+- The right to access personal information.
+- The right to request correction of inaccurate information.
+- The right to request deletion of personal information.
+- The right to restrict certain types of processing.
+- The right to object to certain types of processing.
+- The right to data portability.
+- The right to lodge a complaint with a relevant data protection authority.
+
+Since your expense records are stored locally on your device and are not accessible to us, you generally exercise control over those records directly through WalletSpend and your device.
+
+If you have questions about personal information that we may process through direct communication, you can contact us using the details provided below.
+
+## 11. GDPR and European Economic Area Users
+
+For users located in the European Economic Area (EEA), the General Data Protection Regulation (GDPR) and applicable local data protection laws may apply.
+
+WalletSpend is designed to minimize personal data processing.
+
+We do not require user accounts, do not use analytics or advertising tracking services, and do not collect or store personal expense records on our own servers.
+
+Where we process personal information, such as when responding to an email inquiry, we do so for legitimate purposes and in accordance with applicable data protection laws.
+
+Depending on the circumstances, the legal basis for processing may include:
+
+- Your consent.
+- Taking steps at your request.
+- Our legitimate interests, where these do not override your rights and interests.
+- Compliance with applicable legal obligations.
+
+You may exercise your applicable privacy rights by contacting us.
+
+You also have the right to lodge a complaint with your relevant data protection supervisory authority.
+
+For users in Lithuania, the relevant supervisory authority is:
+
+**State Data Protection Inspectorate (Valstybinė duomenų apsaugos inspekcija)**
+
+Website: https://vdai.lrv.lt/
+
+## 12. International Data Transfers
+
+We do not intentionally transfer users' personal expense records to our own servers or databases.
+
+Since expense information is stored locally on the user's device, we do not perform international transfers of those records as part of the App's core functionality.
+
+If you independently use third-party device backup or other services, information handled by those services may be processed in different countries under the providers' respective terms and privacy policies.
+
+## 13. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in the App, applicable legislation, or our data-handling practices.
+
+Any updated version will be published with a revised effective date.
+
+We encourage users to review this Privacy Policy periodically.
+
+## 14. Contact Information
+
+If you have any questions, concerns, or requests regarding this Privacy Policy or the handling of personal information, please contact us:
+
+**Application:** WalletSpend  
+**Developer / Company:** [PitApp]  
+**Email:** [PitAppDev@proton.me]  
+
+---
+
+By using WalletSpend, you acknowledge that you have read and understood this Privacy Policy.
